@@ -1,0 +1,40 @@
+body {
+    background-color: #00bcd4;
+    color: #b2ebf2;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Comfortaa', cursive;
+
+
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.header_msg {
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+    margin: 1rem 0 6rem;
+
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 3rem;
+}
+
+.dice_img {
+    width: 80%;
+}
+
+.foo {
+    font-size: 2rem;
+    text-align: center;
+    margin: 5rem 0 0;
+}
